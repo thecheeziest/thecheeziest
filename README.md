@@ -1,5 +1,5 @@
-### 안녕하세요 👋
-  
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Follow%ZOA!&animation=fadeIn&fontColor=e7fff3&color=0:b5e7ce,100:f6eaffheight=222)
 # 🍀 Welcome ZOA github profile ! 🍀
 
@@ -24,9 +24,9 @@
 <br/>
 <br/>
    
-## ✏️ 스터디블로그
+## ✏️ Study Blog
 
-블로그 주소
+link
  
 <br/>
 <br/>
@@ -38,3 +38,5 @@
 **cheeze/cheeze**는 GitHub 프로필에 'README.md '(이 파일)이 표시되므로 ✨ _special_ ✨ 저장소입니다.
 https://simpleicons.org/
 -->
+
+</div>
