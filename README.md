@@ -63,7 +63,7 @@
 
 <br/>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codingchyo&theme=tistory)](https://codingchyo.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codingchyo&theme=vue-dark)](https://codingchyo.tistory.com)
 
  
 <br/>
