@@ -63,18 +63,12 @@
 
 <br/>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codingchyo&theme=vue-dark)](https://codingchyo.tistory.com)
+<!-- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codingchyo&theme=vue-dark)](https://codingchyo.tistory.com) -->
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=codingchyo&theme=vue)](https://codingchyo.tistory.com)
 
  
 <br/>
 <br/>
 
 </div>
-
-
-<!--
-**cheeze/cheeze**는 GitHub 프로필에 'README.md '(이 파일)이 표시되므로 ✨ _special_ ✨ 저장소입니다.
-https://simpleicons.org/
--->
-
 </div>
