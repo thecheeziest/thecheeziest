@@ -64,7 +64,7 @@
 <br/>
 
 <!-- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=codingchyo&theme=vue-dark)](https://codingchyo.tistory.com) -->
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=codingchyo&theme=vue)](https://codingchyo.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=codingchyo%20%20&theme=vue)](https://codingchyo.tistory.com)
 
  
 <br/>
